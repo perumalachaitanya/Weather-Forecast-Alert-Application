@@ -155,15 +155,15 @@ Reports are saved inside the `reports/` folder.
 
 ---
 
-## Alerts System
+## Analytics Charts
 
 ![Alerts](images/weather_analytics.png)
 
+![Charts](images/weather_analytics1.png)
+
 ---
 
-## Analytics Charts
-
-![Charts](images/weather_analytics1.png)
+## Generate Weather Report
 
 ![Dashboard](images/dashboard1.png)
 
