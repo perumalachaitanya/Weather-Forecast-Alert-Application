@@ -1,0 +1,11 @@
+City,Temperature,Humidity,WindSpeed,Rainfall,Weather
+Hyderabad,36,65,12,2,Cloudy
+Delhi,42,40,10,0,Sunny
+Mumbai,31,88,18,12,Rainy
+Chennai,38,78,14,4,Humid
+Bangalore,28,70,8,1,Pleasant
+Kolkata,35,82,16,7,Rainy
+Pune,30,60,9,0,Clear
+Jaipur,41,35,11,0,Hot
+Ahmedabad,39,45,13,0,Sunny
+Lucknow,37,75,15,5,Cloudy
